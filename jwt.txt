@@ -1,0 +1,34 @@
+eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6ImY0NWM0NTZlYmRhNTU0ZmU3ZDNmMDM5MjYzNmUzYTg2YmI2MzRkMDlhYmUxOTkyYWFmZDczZDdlYWE4MjkzODExMDZlNGIxZWNmYmFhN2EyIn0.eyJhdWQiOiIxIiwianRpIjoiZjQ1YzQ1NmViZGE1NTRmZTdkM2YwMzkyNjM2ZTNhODZiYjYzNGQwOWFiZTE5OTJhYWZkNzNkN2VhYTgyOTM4MTEwNmU0YjFlY2ZiYWE3YTIiLCJpYXQiOjE1MjM4MjYyNTUsIm5iZiI6MTUyMzgyNjI1NSwiZXhwIjoxNTU1MzYyMjU1LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.SwRbP35H8qttH0Vixn1lLGVBc2sQYS2VuEsnKWM1HDR6jsMhao3d82FU4PN57iunjNPSn0EoaaRHP9tSDdKeux-sNEXoeiLerB5AXhv_Eq4RxdM5pyj-DIVh1SxpiGS_D_c0XkWMbB7Ht3Q_dThWbIo6GNo-NIvWFeprWAsoAwv3qbBDEzsy5nD3oNQjg0eeturl5eg9uWD7kY8y8p9zk7Q6TLmVLwzqiSA0dUFhb-t3CIQVYuBL6iaFmlXNgDoSXAuT_iVcVQzNQ5TluHZfKyqhFKBZVHZbREcXX_2bxMFSqKrl8-Df7lJwaKnD0RRznlwBPDgOJ_VeZ6G22zU_SyQuBKV5OLg-_e5BlO1P4asRqnOFBjl3s6Kc_KE93SPosYNYWTQcxOJFOjPifTbVSMfAtgXQuRwbwHkIRwyfgLhO034HJiSFkP62SPBgqX9FH_45YwhTbB7Z4XJkcNidKrtdfWHVJNrRQhfWZsDwmbR7xHVtLPj_leeHIKExVWQir7DIIseAL9V6HRfw__yWg5frIFqxLmKyK0g_mCA5ZWOo14XV7mqNxRETzdBZ293EugcAiLDBW1rd7-_lSr7TVzVYMiE1Xje_ExheHkjqSSlzfCnvibHL6yu7xqdHVr3b2In3vfxfyq4YfHk5oqJkO3r-oXxorgP5nWF_8ak6tM8
+
+
+
+Recupera todos los productos GET
+http://127.0.0.1:8000/api/products
+
+Crea un producto
+
+Recupera un producto especifico GET
+http://127.0.0.1:8000/api/products/1
+
+Eliminar producto solo funciona con el metodo DELETE
+http://127.0.0.1:8000/api/products/1
+
+
+apiRest
+
+Host Local: mysql.hostinger.mx
+DB  : u297836240_api
+User: u297836240_api
+pass: 0zHTv0[PRgusGo3k6H
+
+
+
+Host remoto: sql165.main-hosting.eu.
+
+
+
+FTP
+/home/u297836240 /public_html/apirest
+Host: ftp.eduardodominguezgarcia.com
+user: u297836240.api
+Pass: e4teIvT6J108xcpqKf
